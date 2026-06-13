@@ -1,0 +1,1 @@
+請幫我分析序列 EDRLLGVLIPCRAFGDVQLKWS。並告訴我這是 AI 算出來的，還是從 CD-HIT 資料庫中找到的？
